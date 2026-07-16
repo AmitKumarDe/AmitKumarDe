@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amit Kumar Dey
 
-A passionate **Full-Stack JavaScript Developer** building scalable web applications and robust backend systems. I specialize in creating modern web experiences using **Node.js, React, Express, and MongoDB**. With a focus on clean code architecture (MVC), security best practices, and user-centric design, I transform ideas into production-ready applications.
+A passionate **Full-Stack JavaScript Developer** building scalable web applications and robust backend systems. I specialize in creating modern web experiences using **Node.js, React, Express, and MongoDB**.
 
 ---
 
@@ -99,19 +99,23 @@ An interactive quiz platform for JavaScript learning:
 ## 🛠️ Technical Skills & Technologies
 
 ### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</div>
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![React Bootstrap](https://img.shields.io/badge/React%20Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
+  <img src="https://img.shields.io/badge/React%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="React Bootstrap">
+</div>
 
 ### **Security & Authentication**
 - JWT (JSON Web Tokens)
@@ -141,11 +145,11 @@ An interactive quiz platform for JavaScript learning:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDe&show_icons=true&theme=radical&count_private=true)](https://github.com/AmitKumarDe)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitKumarDe&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDe&layout=compact&theme=radical)](https://github.com/AmitKumarDe)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDe&layout=compact&theme=radical&cache_seconds=86400)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarDe&theme=radical)](https://github.com/AmitKumarDe)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarDe&theme=radical&cache_seconds=86400)
 
 </div>
 
@@ -154,7 +158,7 @@ An interactive quiz platform for JavaScript learning:
 ## 📈 My Development Journey
 
 ### Phase 1: **Frontend Foundations** 🎨
-Started with HTML, CSS, and JavaScript fundamentals, building responsive static websites and interactive components. Created projects like Netflix Clone and Education Websites to master layout and styling.
+Started with HTML, CSS, and JavaScript fundamentals, building responsive static websites and interactive components. Created projects like Netflix Clone and Education Websites to master layout and styling techniques.
 
 ### Phase 2: **Interactive Applications** ⚛️
 Transitioned to React and modern JavaScript frameworks. Developed interactive applications with API integration (Random Quote Generator, Cocktail API App) to understand component lifecycle and state management.
@@ -163,7 +167,7 @@ Transitioned to React and modern JavaScript frameworks. Developed interactive ap
 Expanded into backend development with Node.js and Express. Built RESTful APIs with MongoDB, learning database design, server-side logic, and deployment strategies. Focused on security and best practices.
 
 ### Phase 4: **Enterprise-Grade Solutions** 🏢
-Currently developing advanced authentication systems, user management platforms, and video streaming backends. Implementing MVC architecture, RBAC, JWT with refresh tokens, and production-ready code.
+Currently developing advanced authentication systems, user management platforms, and video streaming backends. Implementing MVC architecture, RBAC, JWT with refresh tokens, and production-ready code standards.
 
 ### Current Focus 🎯
 - Advanced backend architecture patterns
@@ -213,10 +217,10 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmitKumarDe-black?style=flat-square&logo=github)](https://github.com/AmitKumarDe)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/amitkulmarkd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AmitKumarDe-black?style=for-the-badge&logo=github)](https://github.com/AmitKumarDe)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amitkulmarkd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
 </div>
 
@@ -260,5 +264,5 @@ Feel free to reach out for:
 
 ---
 
-**Last Updated:** June 2026  
+**Last Updated:** July 2026  
 **Profile Views:** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmitKumarDe.AmitKumarDe)
