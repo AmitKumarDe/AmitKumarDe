@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amit Kumar Dey
 
-### Full-Stack Developer • TypeScript • Next.js • Node.js
+### Full-Stack Developer • Next.js 16 • TypeScript • Node.js
 
 <img src="https://avatars.githubusercontent.com/u/93072082?v=4" alt="Amit Kumar Dey" width="180" height="180" />
 
@@ -18,21 +18,33 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack JavaScript Developer** focused on building secure, scalable, and production-ready web applications.
+I'm a passionate **Full-Stack Developer** focused on building secure, scalable, and production-ready web applications with modern JavaScript technologies.
 
-- 🔭 Currently building a full-stack portfolio CMS with **Next.js 16, TypeScript, MongoDB, and JWT authentication**
+- 🔭 Building a full-stack portfolio CMS with **Next.js 16, TypeScript, MongoDB, and JWT authentication**
 - 🌱 Learning advanced backend architecture, microservices, video streaming, and DevOps
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, REST APIs, and authentication**
 - 🤝 Open to interesting projects, collaboration, and full-stack opportunities
 - 📫 Reach me through the links in the [contact section](#-connect-with-me)
 
-## 🛠️ Tech Stack
+## 🛠️ Current Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,html,css,git,github,postman&perline=6" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,mongodb,js,html,css,git,github,postman&perline=6" alt="Technology stack" />
 
 </div>
+
+### Latest Project Stack
+
+| Technology | Usage |
+|---|---|
+| **Next.js 16** | Full-stack application framework and server-rendered frontend |
+| **TypeScript** | Type-safe application development |
+| **MongoDB** | Portfolio content and application data storage |
+| **JWT Authentication** | Secure user authentication and protected admin access |
+| **Dynamic Admin Dashboard** | Managing portfolio content and application data |
+| **CSS** | Responsive and polished user interface styling |
+| **JavaScript** | Supporting scripts and web functionality |
 
 ### Core Competencies
 
@@ -44,21 +56,28 @@ I'm a passionate **Full-Stack JavaScript Developer** focused on building secure,
 
 ## ⭐ Featured Projects
 
-### [Portfolio CMS](https://github.com/AmitKumarDe/AmitkumarDey)
-Full-stack portfolio CMS with a dynamic admin dashboard, authentication, and content management.
+### [Portfolio CMS](https://github.com/AmitKumarDe/AmitkumarDey) · [Live Demo](https://amitkumar-dey.vercel.app)
 
-**Next.js 16 · TypeScript · MongoDB · JWT · Admin Dashboard**
+**Latest project:** a full-stack portfolio CMS built with **Next.js 16 and TypeScript**, featuring a MongoDB-powered content system, JWT authentication, and a dynamic admin dashboard for managing portfolio content.
+
+**Tech Stack:** Next.js 16 · TypeScript · MongoDB · JWT Authentication · Dynamic Admin Dashboard · CSS · JavaScript
+
+> Repository visibility: private. The live portfolio is available through the demo link above.
 
 ### [User Management System](https://github.com/AmitKumarDe/user-management-system)
+
 RESTful API with CRUD operations, pagination, search, role-based access control, Zod validation, and refresh tokens.
 
 ### [JWT Authentication System](https://github.com/AmitKumarDe/jwt-authentication-system)
+
 Authentication backend featuring access and refresh tokens, secure cookies, bcrypt password hashing, and MVC architecture.
 
 ### [Random Quote Generator](https://github.com/AmitKumarDe/Random-Quote-Generator)
+
 Responsive React application with API integration, Material UI, and dynamic quote fetching.
 
 ### [Cocktail API App](https://github.com/AmitKumarDe/CocktailDB_API)
+
 React application for browsing cocktail recipes with API integration, routing, and responsive UI.
 
 ## 📊 GitHub Statistics
