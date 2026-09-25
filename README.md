@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amit Kumar Dey
 
-### Full-Stack Developer • Next.js 16 • TypeScript • Node.js
+### Frontend Developer • React.js • Next.js • TypeScript • JavaScript
 
 <img src="https://avatars.githubusercontent.com/u/93072082?v=4" alt="Amit Kumar Dey" width="180" height="180" />
 
@@ -10,7 +10,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=AmitKumarDe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 &nbsp;
-<a href="https://github.com/AmitKumarDe"><img src="https://img.shields.io/github/followers/AmitKumarDe?label=Follow&style=flat&color=0e75b6" alt="GitHub followers" /></a>
+<a href="https://github.com/AmitKumarDe">
+  <img src="https://img.shields.io/github/followers/AmitKumarDe?label=Follow&style=flat&color=0e75b6" alt="GitHub followers" />
+</a>
 
 </div>
 
@@ -18,80 +20,94 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** focused on building secure, scalable, and production-ready web applications with modern JavaScript technologies.
+I'm a **Frontend Developer** with 3+ years of experience building responsive and user-friendly web applications using modern JavaScript technologies.
 
-- 🔭 Building a full-stack portfolio CMS with **Next.js 16, TypeScript, MongoDB, and JWT authentication**
-- 🌱 Learning advanced backend architecture, microservices, video streaming, and DevOps
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, REST APIs, and authentication**
-- 🤝 Open to interesting projects, collaboration, and full-stack opportunities
-- 📫 Reach me through the links in the [contact section](#-connect-with-me)
+I primarily work with **React.js, Next.js, JavaScript (ES6+), TypeScript, Redux Toolkit, Tailwind CSS, and REST APIs**.
 
-## 🛠️ Current Tech Stack
+* 🔭 Currently building and improving modern web applications with **Next.js, React, TypeScript, and MongoDB**
+* 🌱 Continuously learning **backend development, API design, authentication, and modern web architecture**
+* 💬 Ask me about **React.js, Next.js, JavaScript, TypeScript, Redux Toolkit, REST APIs, and frontend development**
+* 🤝 Open to **Frontend Developer opportunities, interesting projects, and collaboration**
+* 📫 Connect with me through the links in the [Connect With Me](#-connect-with-me) section
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,mongodb,js,html,css,git,github,postman&perline=6" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,nodejs,express,mongodb,git,github,postman&perline=7" alt="Technology stack" />
 
 </div>
 
-### Latest Project Stack
+### Frontend
 
-| Technology | Usage |
-|---|---|
-| **Next.js 16** | Full-stack application framework and server-rendered frontend |
-| **TypeScript** | Type-safe application development |
-| **MongoDB** | Portfolio content and application data storage |
-| **JWT Authentication** | Secure user authentication and protected admin access |
-| **Dynamic Admin Dashboard** | Managing portfolio content and application data |
-| **CSS** | Responsive and polished user interface styling |
-| **JavaScript** | Supporting scripts and web functionality |
+* **React.js**
+* **Next.js**
+* **JavaScript (ES6+)**
+* **TypeScript**
+* **Redux Toolkit**
+* **React Hooks**
+* **React Router**
+* **Tailwind CSS**
+* **Bootstrap**
+* **Material UI**
+* **Responsive Web Design**
 
-### Core Competencies
+### Backend & APIs
 
-- 🔐 JWT authentication, refresh tokens, secure cookies, password hashing, and RBAC
-- 🧩 RESTful API design, validation, error handling, pagination, filtering, and search
-- 🏗️ MVC architecture, SOLID principles, clean code, and reusable components
-- 🗄️ MongoDB schema design, Mongoose, and database-driven applications
-- 📱 Responsive interfaces with React, Next.js, and modern CSS
+* **Node.js**
+* **Express.js**
+* **REST APIs**
+* **MongoDB**
+* **Mongoose**
+* **JWT Authentication**
+* **API Integration**
+* **Postman**
+
+### Tools & Workflow
+
+* **Git & GitHub**
+* **Bitbucket**
+* **Jira**
+* **VS Code**
+* **Agile Development**
 
 ## ⭐ Featured Projects
 
 ### [Portfolio CMS](https://github.com/AmitKumarDe/AmitkumarDey) · [Live Demo](https://amitkumar-dey.vercel.app)
 
-**Latest project:** a full-stack portfolio CMS built with **Next.js 16 and TypeScript**, featuring a MongoDB-powered content system, JWT authentication, and a dynamic admin dashboard for managing portfolio content.
+A modern portfolio application built with **Next.js and TypeScript**, featuring a dynamic content management system, MongoDB integration, authentication, and an admin dashboard for managing portfolio content.
 
-**Tech Stack:** Next.js 16 · TypeScript · MongoDB · JWT Authentication · Dynamic Admin Dashboard · CSS · JavaScript
+**Tech Stack:** Next.js · TypeScript · React · MongoDB · Mongoose · JWT · CSS
 
-> Repository visibility: private. The live portfolio is available through the demo link above.
+> The repository is private. The live portfolio is available through the demo link above.
 
 ### [User Management System](https://github.com/AmitKumarDe/user-management-system)
 
-RESTful API with CRUD operations, pagination, search, role-based access control, Zod validation, and refresh tokens.
+A REST API project demonstrating user management functionality with CRUD operations, pagination, search, validation, role-based access, and authentication.
+
+**Tech Stack:** Node.js · Express.js · MongoDB · Mongoose · JWT · Zod
 
 ### [JWT Authentication System](https://github.com/AmitKumarDe/jwt-authentication-system)
 
-Authentication backend featuring access and refresh tokens, secure cookies, bcrypt password hashing, and MVC architecture.
+Authentication-focused backend project demonstrating access tokens, refresh tokens, secure cookies, password hashing, and protected routes.
+
+**Tech Stack:** Node.js · Express.js · MongoDB · JWT · bcrypt
 
 ### [Random Quote Generator](https://github.com/AmitKumarDe/Random-Quote-Generator)
 
-Responsive React application with API integration, Material UI, and dynamic quote fetching.
+Responsive React application that fetches and displays random quotes through API integration.
+
+**Tech Stack:** React.js · JavaScript · Material UI · REST API
 
 ### [Cocktail API App](https://github.com/AmitKumarDe/CocktailDB_API)
 
-React application for browsing cocktail recipes with API integration, routing, and responsive UI.
+React application for exploring cocktail recipes using API integration, routing, search functionality, and responsive UI.
+
+**Tech Stack:** React.js · JavaScript · React Router · REST API · CSS
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/AmitKumarDe">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarDe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Amit Kumar Dey's GitHub statistics" height="170" />
-</a>
-<a href="https://github.com/AmitKumarDe">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-</a>
-
-<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarDe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -101,9 +117,21 @@ React application for browsing cocktail recipes with API integration, routing, a
 
 <div align="center">
 
-<a href="https://github.com/AmitKumarDe"><img src="https://img.shields.io/badge/GitHub-AmitKumarDe-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/amitkulmarkd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AmitKumarDe">
+  <img src="https://img.shields.io/badge/GitHub-AmitKumarDe-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="mailto:amitkrdey.asn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://linkedin.com/in/amit-kumar-dey-asn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://amitkumar-dey.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -113,6 +141,6 @@ React application for browsing cocktail recipes with API integration, routing, a
 
 ⭐ If you find my projects useful, consider giving them a star!
 
-**"Code is poetry, and clean code is a masterpiece."**
+**Building modern web experiences with React and Next.js.**
 
 </div>
