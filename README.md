@@ -84,8 +84,12 @@ React application for browsing cocktail recipes with API integration, routing, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmitKumarDe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit Kumar Dey's GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+<a href="https://github.com/AmitKumarDe">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarDe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Amit Kumar Dey's GitHub statistics" height="170" />
+</a>
+<a href="https://github.com/AmitKumarDe">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarDe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170" />
+</a>
 
 <br />
 
